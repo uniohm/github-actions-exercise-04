@@ -1,5 +1,5 @@
 #!/bin/sh -l
 
 echo "Hello $1"
-time=$(data)
+time=$(date)
 echo "::set-output name=time::$time"

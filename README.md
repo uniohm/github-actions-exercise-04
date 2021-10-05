@@ -2,7 +2,7 @@
 
 This action prints "Hello World" or "Hello" + the name of person to greet
 
-## Inpots
+## Inputs
 
 ## `who-to-greet`
 **Required** The name of the person to greet. Default `"World"`.
@@ -16,4 +16,4 @@ the time we greeted you
 ## Example usage
 uses: actions/hello-world-docker-action@v1
 with:
-    who-to0greet: 'Mona the Octocat'
+    who-to-greet: 'Mona the Octocat'
