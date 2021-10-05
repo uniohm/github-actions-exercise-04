@@ -1,4 +1,4 @@
-# Hello World docker
+# Hello world docker
 
 This action prints "Hello World" or "Hello" + the name of person to greet
 
